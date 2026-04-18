@@ -1,16 +1,23 @@
-# E-Commerce Database Project
+# 🛒 E-Commerce SQL Project
 
-## Description
-This project is built using PostgreSQL to manage an e-commerce system.
+## 📌 Description
 
-## Tables
-- customers
-- products
-- orders
-- order_items
-- payments
+This project is a simple e-commerce database using PostgreSQL.
 
-## How to Run
-1. Run sql/schema.sql
-2. Run sql/insert_data.sql
-3. Run sql/queries.sql
+## 📂 Files
+
+* schema.sql → tables
+* data.sql → sample data
+* queries.sql → important queries
+* functions.sql → trigger
+
+## 🚀 How to Run
+
+1. Run schema.sql
+2. Run data.sql
+3. Run queries.sql
+4. Run functions.sql
+
+## 👨‍💻 Author
+
+Vikash Kumar
